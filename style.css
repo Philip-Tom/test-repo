@@ -1,0 +1,12 @@
+.container{
+    border: solid 5px blue;
+    padding: 50px;
+    max-width: 50rem;
+    
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
